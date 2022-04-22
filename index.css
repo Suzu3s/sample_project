@@ -1,0 +1,94 @@
+.center_headmsg{
+    background-color: rgb(59, 58, 67);
+    color: white;
+}
+
+.contact{
+    font-size: 90%;
+    text-align: center;
+    line-height: 1.6;
+    margin-top: 10%;
+}
+
+
+ 
+a:hover{
+    color:green;
+}
+.logo{
+    justify-content: center;
+
+}
+
+.contact style{
+    color: red !important;
+    font-family: Arial, Helvetica, sans-serif  ;
+
+
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+
+}
+
+
+
+.li{
+    text-align: left;
+}
+
+.card:hover{
+    transform: translateY(20px);
+}
+
+
+
+
+ 
+
+/*.img-wrapper > .content{
+    position: absolute;
+    inset: 0;
+    font-size: 0.6rem;
+    padding: 2rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-wrapper:hover > img.blur{
+    filter: blur(5px);
+}
+
+.card > .content{
+    position: absolute;
+    inset: 0;
+    font-size: 0.6rem;
+    padding: 2rem;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.wrapper{
+    font-family: sans-serif;
+    margin: 0 auto;
+    left: 55%;
+    top:50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.content{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: grey;
+    text-transform: uppercase;
+}
+*/
